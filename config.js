@@ -18,10 +18,10 @@ import { fileURLToPath } from 'url'
 import path, { join } from 'path'
 import * as scrapers from '@bochilteam/scraper'
 import { es } from "./lib/total-idiomas.js"
-global.botnumber = "+52 243 108 5732";
+global.botnumber = "6282240176289";
 global.confirmCode = "SYLPHUWU";
 global.owner = [
-  ['5212431085732', '>\`\` I\'m Sylph ~', true],
+  ['085704026706', '>\`\` I\'m KUNA ~', true],
   ['5212431268546', '>\` I\'m Fz ~', true],
   ['50242783087', '>\`\`\` I\'m Danny ~ 卐', true],
 ] //Numeros de owner 
@@ -45,9 +45,9 @@ global.APIKeys = { // APIKey Here
   'https://api.fgmods.xyz': `${fgkey}` //--- 100 de límite diario --- Regístrese en https://api.fgmods.xyz/
 }
 // Sticker WM
-global.packname = 'Sylph | Bot - Multi Device' 
-global.author = `FzKl.fcv`
-global.wm = '┊ꦿ🎄⿻ Sylph | Wa Bot❜ೃ'
+global.packname = 'KUNA | Bot - Multi Device' 
+global.author = `Aril Narindra`
+global.wm = '┊ꦿ🎄⿻ KUNA | Wa Bot❜ೃ'
 
 global.insta = 'https://www.instagram.com/'
 	
@@ -56,7 +56,7 @@ global.imagen0 = fs.readFileSync('./src/Sylph_logo.jpg');
 global.imagen = fs.readFileSync('./src/Sylph.jpg');
 global.imagen3 = 'https://telegra.ph/file/62fa3e30dc861a3fde73b.jpg';
 //--info
-global.botName = 'Sylph Bot - The best'
+global.botName = 'KUNA Bot - The best'
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs' 
 global.link_ = 'https://chat.whatsapp.com/CN3YieShy2S3LnVRJ7aPPm'
 
@@ -74,7 +74,7 @@ global.scrapers = scrapers
 
 global.ytdl = ytdl
 global.yt = yt
-global.wait = '⌛ _Espera un momento . . ._'
+global.wait = '⌛ _MOHON TUNGGU . . ._'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
