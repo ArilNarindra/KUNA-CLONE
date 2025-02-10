@@ -21,12 +21,12 @@ import { es } from "./lib/total-idiomas.js"
 global.botnumber = "6282240176289";
 global.confirmCode = "SYLPHUWU";
 global.owner = [
-  ['085704026706', '>\`\` I\'m KUNA ~', true],
+  ['6285704026706', '>\`\` I\'m KUNA ~', true],
   ['5212431268546', '>\` I\'m Fz ~', true],
   ['50242783087', '>\`\`\` I\'m Danny ~ 卐', true],
 ] //Numeros de owner 
 global.colabs = [
-  ['50242783087', '>\`\`\` I\'m Danny ~ 卐', true]
+  ['6285704026706', '>\`\`\` I\'m KUNA ~ 卐', true]
 ] //Colaboradores 
 
 global.mods = [''] 
@@ -49,7 +49,7 @@ global.packname = 'KUNA | Bot - Multi Device'
 global.author = `Aril Narindra`
 global.wm = '┊ꦿ🎄⿻ KUNA | Wa Bot❜ೃ'
 
-global.insta = 'https://www.instagram.com/'
+global.insta = 'https://www.instagram.com/aril.narindra'
 	
 //imágenes
 global.imagen0 = fs.readFileSync('./src/Sylph_logo.jpg');
